@@ -16,7 +16,11 @@ const config = require('./.github.api.token')
 const api    = config.api
 const token  = config.token
 
-module.exports = Promise.map(['volebo/dev', 'volebo/www-wix', 'volebo/volebo-express'], repo => {
+module.exports = Promise.map([
+	'volebo/dev',
+	'volebo/www-wix',
+	'volebo/volebo-express'
+], repo => {
 
 	const cfg = {
 		api,
