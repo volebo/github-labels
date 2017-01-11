@@ -1,0 +1,28 @@
+{
+  "name": "github-labels",
+  "version": "0.0.1",
+  "description": "GitHub labels for Volebo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volebo/github-labels.git"
+  },
+  "keywords": [
+    "github",
+    "labels",
+    "volebo"
+  ],
+  "author": "Maksim Koryukov <maxkoryukov@gmail.com> (https://www.npmjs.com/~maxkoryukov)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volebo/github-labels/issues"
+  },
+  "homepage": "https://github.com/volebo/github-labels#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "git-label": "^4.1.1"
+  }
+}
