@@ -6,9 +6,9 @@ module.exports = [
 	{ "color": "3E4B9E", "name": "EPIC" },
 
 	// Priority
-	{ "color": "333333", "name": "pr:HOT" },
-	{ "color": "333333", "name": "pr:MID" },
-	{ "color": "333333", "name": "pr:LOW" },
+	{ "color": "333333", "name": "★★★" },
+	{ "color": "333333", "name": "★★☆" },
+	{ "color": "333333", "name": "★☆☆" },
 
 	// Platform
 	{ "color": "BFD4F2", "name": "pl:node" },
