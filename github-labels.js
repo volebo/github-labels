@@ -6,9 +6,11 @@ module.exports = [
 	{ "color": "3E4B9E", "name": "EPIC" },
 
 	// Priority
-	{ "color": "333333", "name": "★★★" },
-	{ "color": "333333", "name": "★★☆" },
-	{ "color": "333333", "name": "★☆☆" },
+	// DONE: I can not write this symbols in GH-search query
+	// so I prefer not to use this
+	// { "color": "333333", "name": "★★★" },
+	// { "color": "333333", "name": "★★☆" },
+	// { "color": "333333", "name": "★☆☆" },
 
 	// Platform
 	{ "color": "BFD4F2", "name": "pl:node" },
